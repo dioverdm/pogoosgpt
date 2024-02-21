@@ -8,7 +8,7 @@ create({
   blockCrashLogs: true,
   disableSpins: true,
   headless: true,
-  hostNotificationLang: "PT_BR",
+  hostNotificationLang: "ES_ES",
   logConsole: false,
   popup: true,
   qrTimeout: 0,
